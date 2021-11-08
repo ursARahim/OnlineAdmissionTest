@@ -8,6 +8,13 @@ It is a mcq-test based web application created using Java Spring Boot. It is gen
 * Scorecard Page
 * Final Results Page
 
+# Installation Process
+* create a Spring Boot initializer project
+* add dependencies Spring Web, Spring Data JPA, Spring boot dev tools, Thymeleaf, MySQL Driver
+* create a database in your MySQL workbench
+
+# Project Description
+
 **1. You have to enter your ID otherwise you cant login**
 
 ![home page](https://user-images.githubusercontent.com/55852692/140688584-dec6de7a-8925-4dcf-b408-610987ea2513.JPG)
